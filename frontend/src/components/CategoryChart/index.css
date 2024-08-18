@@ -1,0 +1,28 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Category Chart Container */
+.category-chart-container {
+  background-color: #f0f4f8;
+  border: 1px solid #dcdcdc;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Empty View */
+.empty-view {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  color: #999;
+}

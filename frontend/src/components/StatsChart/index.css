@@ -1,0 +1,12 @@
+.chart-container {
+  background-color: #f7f9fc; /* Light, neutral background color */
+  height: 450px; /* Slightly reduced height for a more compact look */
+  padding: 20px; /* Consistent padding */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px; /* Simplified border-radius */
+  font-family: "Roboto", sans-serif;
+  margin: 60px auto; /* Reduced margin with centered auto adjustment */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
